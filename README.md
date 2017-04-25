@@ -1,2 +1,2 @@
-Simple project for ESP8266 microcontroller "D1 Mini R2" based on Homie
-Purpose is to test MQTT messaging between a Homie device and a PiDome home automation server.
+Source code supporting my instructable : https://www.instructables.com/id/Use-Homie-Firmware-to-Drive-Sonoff-Switch-Module-E/
+Code based on https://github.com/marvinroger/homie-esp8266/blob/develop/examples/IteadSonoffButton/IteadSonoffButton.ino

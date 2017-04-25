@@ -1,5 +1,5 @@
 /*********************************************************************************************************************
- ** 2017-04-24, RDU: Built for Sonoff "Switch"
+ ** 2017-04-24, RDU: Built for Sonoff "Switch" based on Homie sample sketch
  **                  https://www.itead.cc/sonoff-wifi-wireless-switch.html
  **                  https://github.com/marvinroger/homie-esp8266/blob/develop/examples/IteadSonoffButton/IteadSonoffButton.ino
  *********************************************************************************************************************/
